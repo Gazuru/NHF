@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1554217559 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\main.cpp
+	<iostream>
+	"classes.h"
+	"string.h"
+
+1554222165 c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\classes.h
+	<iostream>
+	<fstream>
+	"string.h"
+
+1554144035 c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\strings.h
+	<iostream>
+	<string.h>
+
+1554204379 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\string.cpp
+	<iostream>
+	"string.h"
+
+1554148806 c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\string.h
+	<string.h>
+
+1554201480 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\functions.cpp
+	"functions.h"
+
+1554217485 c:\users\gábor\desktop\bme\2.szemeszter\nhf - sportegyesület\functions.h
+	<iostream>
+	<fstream>
+
