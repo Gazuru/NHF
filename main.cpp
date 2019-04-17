@@ -1,6 +1,7 @@
 #include <iostream>
 #include "classes.h"
 #include "string.h"
+#include "tarolo.hpp"
 
 using namespace std;
 
@@ -20,6 +21,5 @@ int main()
     fitt.listAll();
     fitt.addTeam(tt72);
     fitt.addTeam(tt82);
-    fitt.writeEgyesulet();
     return 0;
 }

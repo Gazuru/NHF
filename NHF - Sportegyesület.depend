@@ -27,3 +27,31 @@
 	<iostream>
 	<fstream>
 
+1555522853 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf\functions.cpp
+	"functions.h"
+
+1555522853 c:\users\gábor\desktop\bme\2.szemeszter\nhf\functions.h
+	<iostream>
+	<fstream>
+
+1555522853 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf\string.cpp
+	<iostream>
+	"string.h"
+
+1555522853 c:\users\gábor\desktop\bme\2.szemeszter\nhf\string.h
+	<string.h>
+
+1555530491 source:c:\users\gábor\desktop\bme\2.szemeszter\nhf\main.cpp
+	<iostream>
+	"classes.h"
+	"string.h"
+	"tarolo.hpp"
+
+1555530966 c:\users\gábor\desktop\bme\2.szemeszter\nhf\classes.h
+	<iostream>
+	<fstream>
+	"string.h"
+	"tarolo.hpp"
+
+1555530230 c:\users\gábor\desktop\bme\2.szemeszter\nhf\tarolo.hpp
+
