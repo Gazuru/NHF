@@ -4,6 +4,8 @@
 #include "string.h"
 #include "tarolo.hpp"
 
+int Team::letszam;
+
 Team::Team(const char* c, int n): nev(c){ setLetszam(n); }
 Team::Team(const Team& t){
     nev = t.nev;
@@ -47,8 +49,8 @@ Egyesulet::Egyesulet(const Egyesulet& e){ csapatok = e.csapatok; }
 void Egyesulet::list(){
     for(size_t i = 0; i < csapatok.size(); i++){
         csapatok[i]->printName();
-        std::cout << std::endl;
     }
+    std::cout << std::endl;
 }
 void Egyesulet::listAll(){
     for(size_t i = 0; i < csapatok.size(); i++){

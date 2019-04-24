@@ -22,7 +22,6 @@ public:
     virtual ~Team(){}
 };
 
-int Team::letszam;
 
 class footballTeam: public Team{
     String edzok[2];
