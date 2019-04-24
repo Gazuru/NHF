@@ -21,7 +21,7 @@ int main()
     fitt.listAll();
     fitt.addTeam(tt72);
     fitt.addTeam(tt82);
-
+    test::test();
     return 0;
 }
 
