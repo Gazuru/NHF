@@ -34,13 +34,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Linker>
-			<Add option="-c" />
-		</Linker>
 		<Unit filename="classes.cpp" />
 		<Unit filename="classes.h" />
-		<Unit filename="functions.cpp" />
-		<Unit filename="functions.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="string.cpp" />
 		<Unit filename="string.h" />
