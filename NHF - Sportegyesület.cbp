@@ -34,6 +34,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Linker>
+			<Add option="-c" />
+		</Linker>
 		<Unit filename="classes.cpp" />
 		<Unit filename="classes.h" />
 		<Unit filename="functions.cpp" />
@@ -42,6 +45,9 @@
 		<Unit filename="string.cpp" />
 		<Unit filename="string.h" />
 		<Unit filename="tarolo.hpp" />
+		<Unit filename="test.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
