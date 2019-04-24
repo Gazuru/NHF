@@ -25,6 +25,6 @@ void test()
     tt72.setTam(5556);
     cout << tt72.getTam() << endl;
     tt82.setPom(666);
-    cout << tt62.getPom() << endl;
+    cout << tt82.getPom() << endl;
     return 0;
 }
