@@ -62,3 +62,31 @@
 	"string.h"
 	"tarolo.hpp"
 
+1556184676 source:c:\users\148990\labor\nhf\main.cpp
+	<iostream>
+	"classes.h"
+	"string.h"
+	"tarolo.hpp"
+
+1556184676 c:\users\148990\labor\nhf\classes.h
+	<iostream>
+	<fstream>
+	"string.h"
+	"tarolo.hpp"
+
+1556184676 c:\users\148990\labor\nhf\string.h
+	<string.h>
+
+1556184808 c:\users\148990\labor\nhf\tarolo.hpp
+
+1556184676 source:c:\users\148990\labor\nhf\string.cpp
+	<iostream>
+	"string.h"
+
+1556184778 source:c:\users\148990\labor\nhf\classes.cpp
+	<iostream>
+	<fstream>
+	"classes.h"
+	"string.h"
+	"tarolo.hpp"
+
